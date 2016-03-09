@@ -1,0 +1,21 @@
+{
+  "name": "d3-examples",
+  "version": "1.0.0",
+  "description": "d3 code samples",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DrkSephy/d3-examples.git"
+  },
+  "author": "David Leonard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DrkSephy/d3-examples/issues"
+  },
+  "homepage": "https://github.com/DrkSephy/d3-examples"
+}
